@@ -1,0 +1,52 @@
+[
+  {
+    "name": "John Doe",
+    "email": "johndoe@example.com",
+    "phone": "123-456-7890"
+  },
+  {
+    "name": "Jane Smith",
+    "email": "janesmith@example.com",
+    "phone": "987-654-3210"
+  },
+  {
+    "name": "Alice Johnson",
+    "email": "alicejohnson@example.com",
+    "phone": "555-555-5555"
+  },
+  {
+    "name": "Michael Brown",
+    "email": "michaelbrown@example.com",
+    "phone": "111-222-3333"
+  },
+  {
+    "name": "Sarah Wilson",
+    "email": "sarahwilson@example.com",
+    "phone": "444-555-6666"
+  },
+  {
+    "name": "Robert Davis",
+    "email": "robertdavis@example.com",
+    "phone": "777-888-9999"
+  },
+  {
+    "name": "Emily Taylor",
+    "email": "emilytaylor@example.com",
+    "phone": "333-444-5555"
+  },
+  {
+    "name": "David Lee",
+    "email": "davidlee@example.com",
+    "phone": "666-777-8888"
+  },
+  {
+    "name": "Olivia Johnson",
+    "email": "oliviajohnson@example.com",
+    "phone": "222-333-4444"
+  },
+  {
+    "name": "James Anderson",
+    "email": "jamesanderson@example.com",
+    "phone": "999-888-7777"
+  }
+]
