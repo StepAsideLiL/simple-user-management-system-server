@@ -1,1 +1,1 @@
-# simple-user-management-system-server
+# Simple User Management System Server

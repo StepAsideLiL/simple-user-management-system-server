@@ -55,14 +55,6 @@ const updateUser = async (req, res) => {
   const { id } = req.params;
   const userInfo = req.body;
 
-  const userExist = await userSchema.findOne({ email: userInfo.email });
-
-  if (userExist) {
-    return res
-      .status(409)
-      .send({ error: true, message: "Email already taken!" });
-  }
-
   userSchema
     .findByIdAndUpdate(id, userInfo, { new: true })
     .then((result) => {
